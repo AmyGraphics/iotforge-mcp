@@ -1,0 +1,9 @@
+{
+  "name": "iotforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous IoT & Embedded Development: Device Architecture, Production Firmware (ESP32/Pico/Pi), Device-to-Cloud Sync, Power Optimization & Fleet Production Engine MCP for Cursor, Claude & Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}

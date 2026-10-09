@@ -1,0 +1,26 @@
+name: iotforge-mcp
+displayName: IoTForge - Autonomous IoT & Embedded Development, ESP32 Firmware & Fleet Engine MCP
+description: Universal IoT engineering engine for Cursor, Claude Code & Windsurf. Architects complete device blueprints (ESP32 vs Pico W vs STM32 board matrix, WiFi vs BLE vs LoRa vs cellular connectivity matrix, battery life math), generates production firmware (robust WiFi/MQTT state machines with exponential backoff, watchdogs, deep sleep, OTA hooks — ESP32 Arduino/ESP-IDF, Pico W MicroPython, Pi Python), designs device-to-cloud sync (scalable MQTT topic hierarchies, device shadows for sleeping devices, offline buffering with backfill), engineers battery life from weeks to years (power budget math, vampire-load hunting, ULP strategies), and prepares fleet production (A/B OTA with rollback, per-device provisioning, secure boot, CE/FCC notes).
+category: developer-tools
+homepage: https://github.com/AmyGraphics/iotforge-mcp
+repository: https://github.com/AmyGraphics/iotforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/iotforge-mcp/main/icon.png
+keywords:
+  - iot
+  - esp32
+  - embedded
+  - firmware
+  - mqtt
+  - arduino
+  - raspberry-pi
+  - micropython
+  - ota-updates
+  - lora
+  - deep-sleep
+  - device-fleet
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://iotforge-api.agentweb-hub.workers.dev/mcp
